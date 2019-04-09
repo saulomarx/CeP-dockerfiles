@@ -1,7 +1,7 @@
 version: '3.3'
 
 services:
-  front:
+  frontend:
     container_name: front
     image: node
     volumes:
